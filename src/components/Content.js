@@ -22,7 +22,7 @@ export class Content extends Component {
             <div className={"header"}>Hobbies</div>
             <div className={"col"} style={{ textAlign: "justify" }}>
               Likes to hangout, watching movies, and TV Shows, checking out new
-              resturants, as well as cooking foot at home and playing outdoor
+              resturants, as well as cooking food at home and playing outdoor
               games
             </div>
           </li>

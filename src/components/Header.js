@@ -13,6 +13,12 @@ export class Header extends Component {
         </div>
         <div className={"contactDetailsRow"}>
           <div>
+            <b>Citizenship:</b>{" "}
+          </div>
+          <div className={"rightalign"}>USA</div>
+        </div>
+        <div className={"contactDetailsRow"}>
+          <div>
             <b>Date of Birth:</b>{" "}
           </div>
           <div className={"rightalign"}>
