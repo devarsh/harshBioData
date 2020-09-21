@@ -51,12 +51,6 @@ export class Header extends Component {
         </div>
         <div className={"contactDetailsRow"}>
           <div>
-            <b>Weight:</b>{" "}
-          </div>
-          <div className={"rightalign"}>65 Kgs</div>
-        </div>
-        <div className={"contactDetailsRow"}>
-          <div>
             <b>Address India:</b>{" "}
           </div>
           <div className={"rightalign"}>

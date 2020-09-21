@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import css from "./Content.scss";
+import "./Content.scss";
 
 export class Content extends Component {
   render() {
@@ -10,11 +10,11 @@ export class Content extends Component {
             <div className="header">About Me</div>
             <div className="col" style={{ textAlign: "justify" }}>
               <p>
-                Born in Ahmedabad, India. Brought up and libing in Chicago since
+                Born in Ahmedabad, India. Brought up and living in Chicago since
                 2007. Believe in simple living and simple thinking with honesty,
                 integrity and family values. Looking for someone who has good
                 sense of humor, having similar quality, personality, and family
-                values and carrer driven.
+                values with carrer driven.
               </p>
             </div>
           </li>
@@ -39,7 +39,7 @@ export class Content extends Component {
             <div className={"col"}>
               <div className={"row"}>
                 <div className={"text"}>
-                  <a href="#">
+                  <a href="#" style={{ color: "black" }}>
                     Prairie (Financial Advisory/Valuation/Investment Banking
                     Firm)
                   </a>{" "}
@@ -113,6 +113,7 @@ export class Content extends Component {
                 <div className={"text"}>
                   Kshitij Mahendru
                   <br />
+                  <br />
                   Software Engineer at Google Seattle-USA
                 </div>
               </div>
@@ -128,7 +129,7 @@ export class Content extends Component {
                   Occupation
                 </div>
                 <div className={"text"}>
-                  Jitendar Manubhai Patel
+                  Jitendra Manubhai Patel
                   <br />
                   Advocate, Gujarat Hight Court
                 </div>

@@ -4,11 +4,10 @@
 }
 
 .timeline ul:before {
-  content: "";
   position: absolute;
   width: 3px;
   height: 100%;
-  top: 0;
+  top: 0px;
   left: 0;
   background: black;
 }
@@ -27,7 +26,7 @@
   border: 3px solid #000;
   position: absolute;
   width: 10px;
-  top: 0;
+  top: 10px;
   left: -46px;
   height: 10px;
   border-radius: 50%;
